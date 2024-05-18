@@ -3,7 +3,5 @@
 
 # tinyshakespeare.ipynb
 表(※実際の出力はエポック数が1ずれています。こちらが正しいです)
-列1	0	1	2	3	4	5	6	7	8	9
-RT	2.2957	2.1017	1.9886	1.9029	1.8501	1.8073	1.7867	1.7568	1.7419	1.7217
-RV	2.3052	2.1295	2.0545	1.9975	1.9666	1.9534	1.9283	1.9043	1.906	1.8993
-![image](https://github.com/meronsyu/seccamp-submission/assets/107108868/f6672d96-1424-45e4-9c27-d251cfc486e7)
+
+![Randomoize](https://github.com/meronsyu/seccamp-submission/assets/107108868/f6672d96-1424-45e4-9c27-d251cfc486e7)
